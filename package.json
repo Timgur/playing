@@ -7,5 +7,8 @@
     "type": "git"
   },
   "author": "Timgur <tony@imgur.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "playing": './index.js'
+  }
 }
