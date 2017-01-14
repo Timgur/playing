@@ -9,6 +9,6 @@
   "author": "Timgur <tony@imgur.com>",
   "license": "MIT",
   "bin": {
-    "playing": './index.js'
+    "playing": "./index.js"
   }
 }
